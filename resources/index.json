@@ -1,7 +1,7 @@
 [
    {
       "id":"Angular资源大全",
-      "image":"../../_images/angular.svg",
+      "image":"./30.awesome/angular.svg",
       "title":"Angular资源大全",
       "summary":"AngularClass收集的精品资源大全",
       "content":"./30.awesome/_index.md",
