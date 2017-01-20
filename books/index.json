@@ -1,0 +1,36 @@
+[
+   {
+      "id":"AngularJS深度剖析与最佳实践",
+      "title":"AngularJS深度剖析与最佳实践",
+      "picture":"./AngularJS深度剖析与最佳实践/cover.jpg",
+      "description":"./AngularJS深度剖析与最佳实践/_index.md",
+      "authors":[
+         "雪狼",
+         "破狼",
+         "彭洪伟"
+      ],
+      "storeUrls":[
+         "http://item.jd.com/11845736.html",
+         "京东商城"
+      ]
+   },
+   {
+      "id":"ng-book2",
+      "title":"Angular 2权威教程",
+      "picture":"./ng-book2/cover.png",
+      "description":"./ng-book2/_index.md",
+      "authors":[
+         "Ari Lerner",
+         "Felipe Coury",
+         "Nate Murray",
+         "Carlos Taborda"
+      ],
+      "translators":[
+         "Angular中文社区"
+      ],
+      "storeUrls":[
+         "http://www.ituring.com.cn/book/1874",
+         "图灵社区"
+      ]
+   }
+]

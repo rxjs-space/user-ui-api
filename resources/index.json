@@ -1,0 +1,36 @@
+[
+   {
+      "id":"Angular资源大全",
+      "image":"../../_images/angular.svg",
+      "title":"Angular资源大全",
+      "summary":"AngularClass收集的精品资源大全",
+      "content":"./30.awesome/_index.md",
+      "authors":[
+         "AngularClass"
+      ],
+      "translators":[
+         "雪狼"
+      ],
+      "originalUrl":"https://github.com/AngularClass/awesome-angular2"
+   },
+   {
+      "id":"PrimeNg",
+      "image":"./10.prime-ng/logo.svg",
+      "title":"PrimeNg简介",
+      "summary":"一套优秀的企业级Angular组件库",
+      "content":"./10.prime-ng/_index.md",
+      "authors":[
+         "雪狼"
+      ]
+   },
+   {
+      "id":"Fuel UI",
+      "image":"./20.fuel-ui/logo.png",
+      "title":"Fuel UI简介",
+      "summary":"Angular 2原生Bootstrap组件",
+      "content":"./20.fuel-ui/_index.md",
+      "authors":[
+         "雪狼"
+      ]
+   }
+]
